@@ -5,7 +5,7 @@ title: 'Week-03'
 
 Jul 12
 : **Section**{: .label .label-purple }[Machine Code](#)
-  : **Lab 1 due**{: .label .label-red }
+  : **Lab 1 due**{: .label .label-red } [**Lab 2 release**{: .label .label-green }](#)
 
 Jul 14
 : **Lab**{: .label .label-purple } [Verilog Design](#)

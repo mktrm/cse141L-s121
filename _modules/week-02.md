@@ -8,5 +8,5 @@ Jul 05
 
 Jul 07
 : **Section**{: .label .label-purple }[Assembly Language](#)
-  : [2.4](#)
+  : [](#)
 
