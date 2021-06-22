@@ -20,7 +20,7 @@ toc_hmax: 6
 
 
 The course offers hands-on computer architecture project aiming to familiarize students with instruction set architecture, design of processor, and control and memory systems, and I/O systems. This is a computer architecture project course. Together, we design a complete special-purpose processor from grounds up. 
-I hope that you will have fun taking this course as much as I will enjoy teaching it!
+I hope that you will have fun taking this course as much as we will enjoy teaching it!
 
 This course is designed to run alongside [CSE 141](#). We expect that you are enrolled in both.
 
@@ -48,7 +48,7 @@ Lectures are Monday from 2:00 to 3:50 US/Pacific, on [Zoom](#).
 
 Labs are Wednesday from 2:00 to 3:50 US/Pacific, on [Zoom](#).
 
-Updated Office Hours on Canvas (See [Course Calendar](https://canvas.ucsd.edu/calendar?include_contexts=course_27993)).
+Updated Office Hours on Canvas (See [Course Calendar](https://canvas.ucsd.edu/calendar?include_contexts=course_27993){:target="_blank"}).
 
 ## Prerequisites
 CSE 110, CSE 140, and CSE 140L. 
@@ -65,7 +65,7 @@ What is important to me is that students put forth an honest effort and treat on
 
 ## Assignments
 Students shall work in teams of two to three members each. 
-There are four lab reports, due at the starts of the 3rd, 4th, 5th weeks and the end (Sunday night) of the 5th week. See Canvas for specifics. Reports shall be submitted on [Gradescope](https://canvas.ucsd.edu/courses/27993/external_tools/80) (the canvas page needs Chrome or Firefox).
+There are four lab reports, due at the starts of the 3rd, 4th, 5th weeks and the end (Sunday night) of the 5th week. See Canvas for specifics. Reports shall be submitted on [Gradescope](https://canvas.ucsd.edu/courses/27993/external_tools/80){:target="_blank"} (the canvas page needs Chrome or Firefox).
 
 ## Grading 
 Each team shall design a microprocessor -- its ISA, its hardware, and its software (assembly code). 
