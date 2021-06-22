@@ -3,10 +3,10 @@ title: 'Week-02'
 ---
 
 Jul 05
-: Independence Day (observed) 
+: **Independence Day (Observed)**
   : 
 
 Jul 07
-: **Section**{: .label .label-purple }[Assembly Language](#)
+: **Lab**{: .label .label-purple }[Assembly Language](#)
   : [](#)
 

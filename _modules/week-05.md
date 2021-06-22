@@ -7,7 +7,7 @@ Jul 26
   : **Lab 3 due**{: .label .label-red }
 
 Jul 28
-: **Lab**{: .label .label-purple } [Project Demo](#)
+: **Lab**{: .label .label-purple } [Project Q/A](#)
   : 
 
 Aug 1

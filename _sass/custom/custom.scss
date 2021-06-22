@@ -21,6 +21,13 @@ code {
   padding: 0.2em 0.4em;
   border: none;
 }
+.grade-table {
+  td, th {
+    min-width: auto;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
 
 div.highlighter-rouge[overlay] {
   position: relative;

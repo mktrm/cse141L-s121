@@ -22,7 +22,7 @@ url: 'https://mktrm.github.io/' # the base hostname & protocol for your site, e.
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
-remote_theme: pmarsceill/just-the-docs@v0.3.3
+remote_theme: "mktrm/just-the-docs@combination-rec-nav"
 color_scheme: light
 search_enabled: true
 heading_anchors: true
@@ -32,7 +32,7 @@ aux_links:
     - 'https://mktrm.github.io/'
   CSE-141:
     - 'https://mktrm.github.io/cse141-s121'
-footer_content:
+footer_content: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.'
 
 # Collections for website data
 collections:
@@ -74,3 +74,15 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+callouts:
+  warning:
+    title: 
+    color: yellow
+  note:
+    title: 
+    color: blue
+  danger:
+    title:
+    color: red
+callouts_opacity: 0.1
