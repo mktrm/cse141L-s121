@@ -60,8 +60,13 @@ Computer Organization and Design MIPS Edition, The Hardware/Software Interface, 
 
 ## Format 
 Course format is lectures over Zoom, two days per week, plus independent work over CloudLabs or self-contained at home on own computers. Attendance is strongly recommended, but not required, and all lectures are recorded.
-Discussions, Q&A, peer-to-peer instruction, etc. take place on our [Piazza](#). You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff.
-What is important to me is that students put forth an honest effort and treat one another, and the instructors, courteously. Constructive criticism is always welcome. 
+
+
+## Online Discussion 
+Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](https://edstem.org/){:target="_blank"}. You will receive an invitiation email to join the course a few days before the start of the class. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
+
+{: .warning }
+While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7. 
 
 ## Assignments
 Students shall work in teams of two to three members each. 
