@@ -22,7 +22,7 @@ toc_hmax: 6
 The course offers hands-on computer architecture project aiming to familiarize students with instruction set architecture, design of processor, and control and memory systems, and I/O systems. This is a computer architecture project course. Together, we design a complete special-purpose processor from grounds up. 
 I hope that you will have fun taking this course as much as we will enjoy teaching it!
 
-This course is designed to run alongside [CSE 141](#). We expect that you are enrolled in both.
+This course is designed to run alongside [CSE 141](https://mktrm.github.io/cse141-s121/){:target="_blank"}. We expect that you are enrolled in both.
 
 
 
@@ -44,9 +44,9 @@ This course is designed to run alongside [CSE 141](#). We expect that you are en
 {% endif %}
 
 ## Meetings
-Lectures are Monday from 2:00 to 3:50 US/Pacific, on [Zoom](#).
+Lectures are Monday from 2:00 to 3:50 US/Pacific, on [Zoom](https://canvas.ucsd.edu/courses/27993/external_tools/628){:target="_blank"}.
 
-Labs are Wednesday from 2:00 to 3:50 US/Pacific, on [Zoom](#).
+Labs are Wednesday from 2:00 to 3:50 US/Pacific, on [Zoom](https://canvas.ucsd.edu/courses/27993/external_tools/628){:target="_blank"}.
 
 Updated Office Hours on Canvas (See [Course Calendar](https://canvas.ucsd.edu/calendar?include_contexts=course_27993){:target="_blank"}).
 
