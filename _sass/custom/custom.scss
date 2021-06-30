@@ -7,6 +7,26 @@
 @import 'schedule';
 @import 'staffer';
 
+
+@import 'fontawesome/fontawesome';
+@import 'fontawesome/solid';
+.icon{
+  font-size: 18px; 
+  // color: tomato;
+  color: $green-200;
+}
+.icon-green{
+  font-size: 18px; 
+  color: $green-300;
+}
+.grade-table {
+  td, th {
+    min-width: auto;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
 // Overrides
 a abbr[title] {
   border-bottom: none;
