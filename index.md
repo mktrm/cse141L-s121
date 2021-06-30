@@ -69,7 +69,7 @@ Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](http
 While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7. 
 
 ## Assignments
-Students shall work in teams of two to three members each. 
+Students shall work in teams of two to four members each. 
 There are four lab reports, due at the starts of the 3rd, 4th, 5th weeks and the end (Sunday night) of the 5th week. See Canvas for specifics. Reports shall be submitted on [Gradescope](https://canvas.ucsd.edu/courses/27993/external_tools/80){:target="_blank"} (the canvas page needs Chrome or Firefox).
 
 ## Grading 
