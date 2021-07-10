@@ -4,11 +4,11 @@ title: 'Week-03'
 
 
 Jul 12
-: **Section**{: .label .label-purple }[Review of Verilog](#)
+: **Section**{: .label .label-purple }[Architecting Your Machines](#)
   : **Lab 1 due**{: .label .label-red } [**Lab 2 release**{: .label .label-green }](#)
 
 Jul 14
-: **Lab**{: .label .label-purple } [Verilog Demo (ALU)](#)
+: **Lab**{: .label .label-purple } [Verilog Review & Demo (ALU)](#)
   : 
 
 <!-- Oct 9
