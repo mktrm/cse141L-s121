@@ -8,7 +8,7 @@ Jul 19
   : [**Lab 3,4 release**{: .label .label-green }](#)
 
 Jul 20
-: 
+: -
   : **Lab 2 due**{: .label .label-red }
   
 Jul 21
