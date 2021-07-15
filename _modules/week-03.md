@@ -9,7 +9,7 @@ Jul 12
 
 Jul 14
 : **Lab**{: .label .label-purple } [Verilog Review & Demo (ALU)](#)
-  : 
+  : [<i class="icon fas fas fa-video"></i>](https://canvas.ucsd.edu/courses/27993/external_tools/82 "video"){: .noclassatall}
 
 <!-- Oct 9
 : [Runtime Analysis](#)
