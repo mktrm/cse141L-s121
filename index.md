@@ -133,6 +133,7 @@ No late turn-ins for any Lab. **Sunday night at the end of Week 5 is an absolute
 ## Useful Resources
 
 - [Starter Code](https://canvas.ucsd.edu/files/4762975/download?download_frd=1)
+- [Sample Testbenches](https://canvas.ucsd.edu/files/4799709/download?download_frd=1)
 
 ## Agenda 
 {% for module in site.modules %}
